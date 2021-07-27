@@ -1,0 +1,16 @@
+{
+  "name": "js-asincronismo",
+  "version": "1.0.0",
+  "description": "Trabajanco con asincronismo en JavcaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "async",
+    "callbacks",
+    "promises"
+  ],
+  "author": "Jessen Alejandro Mercado Mejia",
+  "license": "MIT"
+}
